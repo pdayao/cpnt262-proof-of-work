@@ -2,6 +2,5 @@
 ## Web Client and Server Programmings
 Achievements Round 1 - Proof of Work\
 Patricia Dayao\
-GH Pages: \
 Attributions: \
 https://www.youtube.com/watch?v=yG03EvfHSIU&list=PLnHJACx3NwAdQElswAscNtHAZLAQYgpDA&index=2
