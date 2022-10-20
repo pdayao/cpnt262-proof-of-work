@@ -1,3 +1,5 @@
+'use strict';
+
 function longestWord(str) {
   let words = str.split(" ");
   let longestWord = '';
